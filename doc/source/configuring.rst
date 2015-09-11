@@ -972,7 +972,7 @@ Configuring the Sheepdog Storage Backend
 
 * ``sheepdog_store_address=ADDR``
 
-Optional. Default: ``localhost``
+Optional. Default: ``127.0.0.1``
 
 Can only be specified in configuration files.
 
